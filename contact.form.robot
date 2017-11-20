@@ -8,8 +8,8 @@ Test Teardown     Close All Browsers
 Positive test. Successful submit of a Contact Form
     Wait Until Keyword Succeeds  3x  2000ms   Click Link  css=#menu-item-96 > a
     Element Should Contain   css=#contacts > div > div > span  Get in touch with us!
-    Input Text  css=#contact_form > label:nth-child(1) > input   Yuliya
-    Input Text  css=#contact_form > label:nth-child(2) > input  test_yuliyabiletskaya@gmail.com
+    awrrtyfd Input Text  css=#contact_form > label:nth-child(1) > input   Yuliya
+    11qqqaaa  Input Text  ggg css=#contact_form > label:nth-child(2) > input  test_yuliyabiletskaya@gmail.com
     Input Text  css=#contact_form > label.label.label-message > textarea  Hello!
     Click Button  css=#contact_form > input
     Wait Until Keyword Succeeds  3x  5000ms  Page Should Contain  Thank you!
