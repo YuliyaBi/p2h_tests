@@ -9,4 +9,4 @@ ${BROWSER}  Chrome
 
 *** Keywords ***
 Prepare Test Environment
-    Open Browser  ${HOST}  ${BROWSER}
+    Open Browser  ${HOST}  ${BROWSER}gitcomm
