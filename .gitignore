@@ -1,7 +1,6 @@
 .DS_Store
 .idea
 results/
-.log
-.output
-.report
-*.g
+*.xml
+*.html
+*.png
