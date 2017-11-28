@@ -30,6 +30,7 @@ Projects link
     Click Link  css=#tab3 > div.projects__nav.clearfix > a:nth-child(1)
     Page Should Contain Image  css=#tab3 > div.projects__wrap-info > div.projects__tab-info.project-tab-1.active > img
     #Respublica
+
     Click Element  css=div > div:nth-child(4) > a > div > img
     Page Should Contain  Respublica festival
     Click Link  css=#tab4 > div.projects__nav.clearfix > a:nth-child(2)
