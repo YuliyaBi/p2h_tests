@@ -1,6 +1,8 @@
 .DS_Store
 .idea
 results/
-*.xml
-*.html
-*.png
+output.xml
+log.html
+report.html
+selenium-screenshot-[0-9].png
+*.log
